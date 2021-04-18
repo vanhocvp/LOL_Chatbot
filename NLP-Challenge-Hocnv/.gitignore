@@ -1,0 +1,11 @@
+!**/.gitkeep
+.env
+model4.h5
+database1.db
+models/*
+database/*
+apis/bin/*
+apis/lib/*
+**/*.h5
+**/vscode./
+**/__pycache__/

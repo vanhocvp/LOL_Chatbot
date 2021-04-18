@@ -1,0 +1,560 @@
+<!DOCTYPE html>
+<html lang="vi-VN" prefix="og: http://ogp.me/ns#">
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta charset="utf-8">        
+        <title>Skmoba - Tin eSports, guides, lịch thi đấu và bxh LMHT LOL</title>
+        <meta name="description" content="Skmoba - Tin tức thể thao esports Liên Minh Huyền Thoại LOL mới cập nhật, guides cách chơi lên đồ bảng ngọc bổ trợ, lịch thi đấu bảng xếp hạng kết quả" />
+        <meta name="robots" content="index,follow" />
+        <link rel="canonical" href="https://skmoba.com/" />
+        <link rel="publisher" href="https://www.facebook.com/GGLMHT"/>
+        <meta property="og:locale" content="vi_VN" />
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content="Skmoba - Tin eSports, guides, lịch thi đấu và bxh LMHT LOL" />
+        <meta property="og:description" content="Skmoba - Tin tức thể thao esports Liên Minh Huyền Thoại LOL mới cập nhật, guides cách chơi lên đồ bảng ngọc bổ trợ, lịch thi đấu bảng xếp hạng kết quả" />
+        <meta property="og:url" content="https://skmoba.com/" />
+        <meta property="og:site_name" content="Skmoba" />
+        <meta property="fb:app_id" content="2130335120616196" />        
+        <meta property="og:image" content="https://skmoba.com/images/logo.png" />
+        <meta property="og:image:secure_url" content="https://skmoba.com/images/logo.png"/>
+        <link rel="icon" href="https://skmoba.com/images/icon.png" sizes="32x32" />
+        <link rel="stylesheet" href="https://skmoba.com/public/libs/font-awesome-4.4.0/css/font-awesome.min.css">
+        <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://skmoba.com/public/css/small.css">
+                    </head>    
+    <body id="body">
+        <div class="header_container">
+            <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+    (adsbygoogle = window.adsbygoogle || []).push({
+        google_ad_client: "ca-pub-6958286390195768",
+        enable_page_level_ads: true
+    });
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116224730-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-116224730-1');
+</script>
+<!--END Google Analytics-->
+<!--bidgear-->
+<!--<script data-ad-client="ca-pub-4438672779115530" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>-->
+<!--end bidgear-->
+<!--galaksion-->
+<!--<script data-cfasync="false" async type="text/javascript" src="//arkbuyarm.club/1clkn/16695"></script>-->
+<!--end galaksion-->
+<!--Comment facebooks--> 
+<div id="fb-root"></div>
+<script>(function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id))
+            return;
+        js = d.createElement(s);
+        js.id = id;
+        js.src = 'https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v3.2&appId=1904354549635011&autoLogAppEvents=1';
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+<!--END Comment facebooks-->
+<script type="text/javascript" src="//services.bilsyndication.com/adv1/?q=7413ebfbd7943886e321b2f71393c6b8"></script><script> var vitag = vitag || {};</script>
+<div class="container">
+    <div class="row menu_container">
+        <div class="col-sm-12 col-xs-12 pl0 pr0">
+            <nav class="navbar navbar-default box_menu">
+                <div class="_container-fluid">
+                    <div class="navbar-header">
+                        <a class="visible-xs lg_xs" href="https://skmoba.com/">
+                            Skmoba.com
+                        </a>
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                    </div>
+
+                    <div class="collapse navbar-collapse box_list_menu" id="bs-example-navbar-collapse-1">
+                        <ul class="nav navbar-nav">
+                            <li>
+                                <a class="logo" href="https://skmoba.com/">Skmoba.com
+                                </a>                                
+                            </li>
+                            <!--<li><a class="" href="">ĐTCL 10.5</a></li>-->
+                            <li><a class="mn2" href="https://skmoba.com/tuong-dau-truong-chan-ly">Tướng ĐTCL Mùa 4</a></li>
+                            <li><a class="_mn4 mn2" href="https://skmoba.com/tuong-toc-chien">Tướng Tốc Chiến</a></li>
+                            <li><a class="_mn2 mn1" href="https://skmoba.com/lich-thi-dau-vcs-mua-he-2020">Lịch thi đấu VCS Hè 2020</a></li>
+                            <!--<li><a class="mn2" href="">Chung kết thế giới 2019</a></li>-->
+                            <li><span class="glyphicon glyphicon-star-empty fl tw"></span><a class="mn1" href="https://skmoba.com/lich-thi-dau-lck-mua-he-2020">Lịch thi đấu LCK Hè 2020</a><span class="glyphicon glyphicon-star-empty fl tw"></span></li>
+                            <!--<li><a class="_mn4 mn2" href="">Danh sách CKTG 2019</a></li>-->
+                            <!--<li><a class="mn2" href="">Lịch thi đấu LOL</a></li>-->
+                            <!--<li><a class="mn4" href="">Lịch thi đấu MSI 2019</a></li>-->
+                            <!--<li><a class="mn1" href="">LCK Mùa Hè 2019</a></li>-->
+                            <li><a class="mn3" href="https://skmoba.com/champion">Tướng LOL</a></li>                            
+                            <li><a class="mn2" href="https://skmoba.com/tuong-lien-quan-mobile">LQM</a></li>
+                            <!--<li><a class="mn2" href="">LEC Hè 2019</a></li>-->
+                            <!--<li><a class="" href="https://skmoba.com/12-cung-hoang-dao">12 CHĐ</a></li>-->
+                            <!--<li><a class="" href="https://skmoba.com/lich-thi-dau-lcs">LCS Hè 2019</a></li>-->
+                            <!--<li><a class="mn4" href="https://skmoba.com/lich-thi-dau-rift-rivals-lck">Rift Rivals LCK 2019</a></li>-->
+                            <!--<li><a class="" href="https://skmoba.com/lich-thi-dau-rift-rivals-vcs">Rift Rivals VCS 2019</a></li>-->
+
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </div>	
+</div>        </div>
+        <div class="box_main_container">
+            <div class="top_container">
+                <!--<div class="ads_r xs_ads_r _hidden-xs">-->
+<div class="ads_r xs_ads_r _hidden-xs mb10 mt10">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- sk_336_280_2 -->
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:336px;height:280px"
+         data-ad-client="ca-pub-6958286390195768"
+         data-ad-slot="6506946998"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+</script>    <!--        <div class="close_ads_btn btn_close_ads_l btn_close_ads_l1 visible-lg">
+                <img style="width: 15px;" title="Close" alt="Close" src="/images/source/icon.png"/>
+            </div>-->
+</div>
+<div class="ads_bot _hidden _hidden-xs xs_mt22">
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- sk_728_90 -->
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:728px;height:90px"
+         data-ad-client="ca-pub-6958286390195768"
+         data-ad-slot="4259424427"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+    <div class="close_ads_btn btn_close_ads_footer">
+        <img title="Close" alt="Close" src="/images/source/icon.png"/>
+    </div>
+</div>
+<!--    <div class="_btn_close_ads_l btn_close_ads_l1 visible-lg">
+        <img style="width: 15px;" alt="Close" src="/images/source/icon.png"/>
+    </div>-->
+<!--</div>-->
+<!--<div class="container _ads_top _hidden-xs xs_mt10 xs_mb10 text-center">
+    <div class="row _box_ads_top _ads_top22 _hidden-xs xs_mt15 xs_mb10 lg_pr0">
+        <div class="col-sm-12 col-xs-12 _box_ads_top _ads_top22 _hidden-xs xs_mt10 xs_mb10 mt5 _lg_pr0 col-lg-push-1">
+                $a_skip = array('tuong-khac-che/jinx-vs-lucian','khac-che-tuong-maokai', 'khac-che-tuong-sona', 'champions/huong-dan-choi-cach-len-do-sett', 'tuong-khac-che/renekton-vs-kled', 'anh-yasuo-hinh-nen-yasuo-o3316', 'cach-khac-che-maokai', 'cach-khac-che-sona', 'champions/huong-dan-choi-cach-len-do-blitzcrank', 'champions/huong-dan-choi-cach-len-do-cassiopeia', 'champions/huong-dan-choi-cach-len-do-mordekaiser', 'tuong-dau-truong-chan-ly/lucian', 'tuong-dau-truong-chan-ly/vayne', 'tuong-khac-che/akali-vs-irelia', 'tuong-khac-che/jax-vs-kayle', 'tuong-khac-che/jinx-vs-lucian', 'tuong-khac-che/riven-vs-kled', 'tuong-lien-quan-mobile/cach-len-do-yena');
+                $uri_string = uri_string();
+            <div class="ads_right _hidden">
+                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                sk_160_600 
+                <ins class="adsbygoogle"
+                     style="display:inline-block;width:160px;height:600px"
+                     data-ad-client="ca-pub-6958286390195768"
+                     data-ad-slot="3727288992"></ins>
+                <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
+            </div>
+        </div>
+    </div>
+</div>-->            </div>
+            <div class="container main_container">
+                <div class="content_container">
+                    <div class="row">
+    <div class="col-lg-8 col-md-8 col-xs-12 box_main_left">
+        <div class="row">
+            <h1 class="col-sm-12 col-xs-12 title">Tin tức Liên Minh Huyền Thoại mới cập nhật</h1>
+            <ul class="list-unstyled">
+                                            <li class="col-lg-12 col-sm-12 col-md-12 col-xs-12 box_list_item_home">
+                                <a href="https://skmoba.com/danh-sach-all-star-2020" class="col-sm-5 col-xs-6">
+                                    <img alt="Danh sách All Star 2020 - Các tuyển thủ tham dự chính thức" class="fw row" src="https://skmoba.com/images/thumbs/lmht/danh-sach-all-star-2020.jpg"/>
+                                </a>
+                                <div class="col-sm-7 col-xs-6">
+                                    <div class="row">
+                                        <h2>
+                                            <a href="https://skmoba.com/danh-sach-all-star-2020" class="main_title">Danh sách All Star 2020 - Các tuyển thủ tham dự chính thức</a>
+                                        </h2>                                        
+                                        <p class="des mt10 hidden-xs">Danh sách tuyển thủ tham dự All Star 2020 việt nam LMHT tổng hợp tất cả những người chơi được bình chọn Siêu sao đại chiến 2020 mùa giải thứ 10 của&#8230;</p>
+                                    </div>
+                                </div>
+                            </li>
+                                                        <li class="col-lg-12 col-sm-12 col-md-12 col-xs-12 box_list_item_home">
+                                <a href="https://skmoba.com/lich-thi-dau-all-star-sieu-sao-dai-chien-2020" class="col-sm-5 col-xs-6">
+                                    <img alt="Lịch thi đấu All Star 2020: Siêu sao đại chiến 2020" class="fw row" src="https://skmoba.com/images/thumbs/lmht/lich-thi-dau-all-star-sieu-sao-dai-chien-2020.jpg"/>
+                                </a>
+                                <div class="col-sm-7 col-xs-6">
+                                    <div class="row">
+                                        <h2>
+                                            <a href="https://skmoba.com/lich-thi-dau-all-star-sieu-sao-dai-chien-2020" class="main_title">Lịch thi đấu All Star 2020: Siêu sao đại chiến 2020</a>
+                                        </h2>                                        
+                                        <p class="des mt10 hidden-xs">Cập nhật lịch thi đấu All Star 2020 Siêu sao đại chiến 2020 lol của VCS, LPL, LCK việt nam và các khu vực ngày 1, ngày 2, 3 Liên Minh Huyền&#8230;</p>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="col-lg-12 col-sm-12 col-md-12 col-xs-12 box_list_item_home">
+                                <a href="https://skmoba.com/champions/huong-dan-choi-cach-len-do-seraphine" class="col-sm-5 col-xs-6">
+                                    <img alt="Guide Seraphine Mùa 11 - bảng Ngọc bổ trợ và Cách lên đồ Seraphine mới nhất" class="fw row mw" src="https://skmoba.com/skins/Seraphine-mua-11.jpg">
+                                </a>
+                                <div class="col-sm-7 col-xs-6">
+                                    <div class="row">
+                                        <h2>
+                                            <a href="https://skmoba.com/champions/huong-dan-choi-cach-len-do-seraphine" class="main_title">Guide Seraphine Mùa 11 - bảng Ngọc bổ trợ và Cách lên đồ Seraphine mới nhất</a>
+                                        </h2>                                        
+                                        <p class="des mt10 hidden-xs">Guide Seraphine Mùa 11 - bảng Ngọc bổ trợ và Cách lên đồ Seraphine mới nhất</p>
+                                    </div>
+                                </div>
+                            </li><li class="col-lg-12 col-sm-12 col-md-12 col-xs-12 box_list_item_home">
+                                <a href="https://skmoba.com/champions/huong-dan-choi-cach-len-do-samira" class="col-sm-5 col-xs-6">
+                                    <img alt="Guide Samira Mùa 11 - bảng Ngọc bổ trợ và Cách lên đồ Samira mới nhất" class="fw row mw" src="https://skmoba.com/skins/Samira-mua-11.jpg">
+                                </a>
+                                <div class="col-sm-7 col-xs-6">
+                                    <div class="row">
+                                        <h2>
+                                            <a href="https://skmoba.com/champions/huong-dan-choi-cach-len-do-samira" class="main_title">Guide Samira Mùa 11 - bảng Ngọc bổ trợ và Cách lên đồ Samira mới nhất</a>
+                                        </h2>                                        
+                                        <p class="des mt10 hidden-xs">Guide Samira Mùa 11 - bảng Ngọc bổ trợ và Cách lên đồ Samira mới nhất</p>
+                                    </div>
+                                </div>
+                            </li>                            <li class="col-lg-12 col-sm-12 col-md-12 col-xs-12 box_list_item_home">
+                                <a href="https://skmoba.com/chung-ket-cktg-2020-sn-vs-dwg-o4641" class="col-sm-5 col-xs-6">
+                                    <img alt="Chung Kết CKTG 2020: SN vs DWG" class="fw row" src="https://img.youtube.com/vi/IeuBNQBu0KQ/0.jpg"/>
+                                </a>
+                                <div class="col-sm-7 col-xs-6">
+                                    <div class="row">
+                                        <h2>
+                                            <a href="https://skmoba.com/chung-ket-cktg-2020-sn-vs-dwg-o4641" class="main_title">Chung Kết CKTG 2020: SN vs DWG</a>
+                                        </h2>                                        
+                                        <p class="des mt10 hidden-xs">Chung Kết CKTG 2020: SN vs DWG</p>
+                                    </div>
+                                </div>
+                            </li>
+                                                        <li class="col-lg-12 col-sm-12 col-md-12 col-xs-12 box_list_item_home">
+                                <a href="https://skmoba.com/lich-thi-dau-cktg-2020-lmht" class="col-sm-5 col-xs-6">
+                                    <img alt="Lịch thi đấu CKTG 2020 LMHT - SN vs DWG" class="fw row" src="https://skmoba.com/images/thumbs/chung-ket-the-gioi/lich-thi-dau-cktg-2020-lmht.jpg"/>
+                                </a>
+                                <div class="col-sm-7 col-xs-6">
+                                    <div class="row">
+                                        <h2>
+                                            <a href="https://skmoba.com/lich-thi-dau-cktg-2020-lmht" class="main_title">Lịch thi đấu CKTG 2020 LMHT - SN vs DWG</a>
+                                        </h2>                                        
+                                        <p class="des mt10 hidden-xs">Cập nhật lịch thi đấu CKTG 2020 LMHT kết quả LTĐ Chung kết thế giới 2020 LOL chính thức mới nhất hôm nay của sofm suning và các đội tuyển, thời gian&#8230;</p>
+                                    </div>
+                                </div>
+                            </li>
+                                                        <li class="col-lg-12 col-sm-12 col-md-12 col-xs-12 box_list_item_home">
+                                <a href="https://skmoba.com/ban-ket-cktg-2020-sn-vs-tes-o4640" class="col-sm-5 col-xs-6">
+                                    <img alt="Bán Kết CKTG 2020: SN vs TES" class="fw row" src="https://img.youtube.com/vi/Hf_ykQv1kKI/0.jpg"/>
+                                </a>
+                                <div class="col-sm-7 col-xs-6">
+                                    <div class="row">
+                                        <h2>
+                                            <a href="https://skmoba.com/ban-ket-cktg-2020-sn-vs-tes-o4640" class="main_title">Bán Kết CKTG 2020: SN vs TES</a>
+                                        </h2>                                        
+                                        <p class="des mt10 hidden-xs">Bán Kết CKTG 2020: SN vs TES</p>
+                                    </div>
+                                </div>
+                            </li>
+                                                        <li class="col-lg-12 col-sm-12 col-md-12 col-xs-12 box_list_item_home">
+                                <a href="https://skmoba.com/tu-ket-cktg-2020-tes-vs-fnc-o4639" class="col-sm-5 col-xs-6">
+                                    <img alt="Tứ Kết CKTG 2020: TES vs FNC" class="fw row" src="https://img.youtube.com/vi/08p88Gxhd6I/0.jpg"/>
+                                </a>
+                                <div class="col-sm-7 col-xs-6">
+                                    <div class="row">
+                                        <h2>
+                                            <a href="https://skmoba.com/tu-ket-cktg-2020-tes-vs-fnc-o4639" class="main_title">Tứ Kết CKTG 2020: TES vs FNC</a>
+                                        </h2>                                        
+                                        <p class="des mt10 hidden-xs">Tứ Kết CKTG 2020: TES vs FNC</p>
+                                    </div>
+                                </div>
+                            </li>
+                                                        <li class="col-lg-12 col-sm-12 col-md-12 col-xs-12 box_list_item_home">
+                                <a href="https://skmoba.com/tu-ket-cktg-2020-sn-vs-jdg-o4638" class="col-sm-5 col-xs-6">
+                                    <img alt="Tứ Kết CKTG 2020: SN vs JDG" class="fw row" src="https://img.youtube.com/vi/_jAk6qhan2M/0.jpg"/>
+                                </a>
+                                <div class="col-sm-7 col-xs-6">
+                                    <div class="row">
+                                        <h2>
+                                            <a href="https://skmoba.com/tu-ket-cktg-2020-sn-vs-jdg-o4638" class="main_title">Tứ Kết CKTG 2020: SN vs JDG</a>
+                                        </h2>                                        
+                                        <p class="des mt10 hidden-xs">Tứ Kết CKTG 2020: SN vs JDG</p>
+                                    </div>
+                                </div>
+                            </li>
+                                                        <li class="col-lg-12 col-sm-12 col-md-12 col-xs-12 box_list_item_home">
+                                <a href="https://skmoba.com/tu-ket-cktg-2020-dwg-vs-drx-o4637" class="col-sm-5 col-xs-6">
+                                    <img alt="Tứ Kết CKTG 2020: DWG vs DRX" class="fw row" src="https://img.youtube.com/vi/jk0xVElB2mw/0.jpg"/>
+                                </a>
+                                <div class="col-sm-7 col-xs-6">
+                                    <div class="row">
+                                        <h2>
+                                            <a href="https://skmoba.com/tu-ket-cktg-2020-dwg-vs-drx-o4637" class="main_title">Tứ Kết CKTG 2020: DWG vs DRX</a>
+                                        </h2>                                        
+                                        <p class="des mt10 hidden-xs">Tứ Kết CKTG 2020: DWG vs DRX</p>
+                                    </div>
+                                </div>
+                            </li>
+                                                        <li class="col-lg-12 col-sm-12 col-md-12 col-xs-12 box_list_item_home">
+                                <a href="https://skmoba.com/cac-trang-phuc-vinh-quang-trong-lmht-o3918" class="col-sm-5 col-xs-6">
+                                    <img alt="Các trang phục skin Vinh Quang mùa 10 của tướng đẹp nhất" class="fw row" src="https://skmoba.com/images/thumbs/lmht/trang-phuc-vinh-quang.jpg"/>
+                                </a>
+                                <div class="col-sm-7 col-xs-6">
+                                    <div class="row">
+                                        <h2>
+                                            <a href="https://skmoba.com/cac-trang-phuc-vinh-quang-trong-lmht-o3918" class="main_title">Các trang phục skin Vinh Quang mùa 10 của tướng đẹp nhất</a>
+                                        </h2>                                        
+                                        <p class="des mt10 hidden-xs">Tổng hợp danh sách tất cả những skins bộ trang phục Vinh Quang mùa 10 victorious trong Liên Minh Huyền Thoại lol 2020 hiệu ứng hình ảnh đẹp nhất từ trước tới nay&#8230;</p>
+                                    </div>
+                                </div>
+                            </li>
+                                                        <li class="col-lg-12 col-sm-12 col-md-12 col-xs-12 box_list_item_home">
+                                <a href="https://skmoba.com/vong-bang-cktg-2020-sn-vs-tl-o4636" class="col-sm-5 col-xs-6">
+                                    <img alt="Vòng Bảng CKTG 2020: SN vs TL" class="fw row" src="https://img.youtube.com/vi/rAUQQRtPwGI/0.jpg"/>
+                                </a>
+                                <div class="col-sm-7 col-xs-6">
+                                    <div class="row">
+                                        <h2>
+                                            <a href="https://skmoba.com/vong-bang-cktg-2020-sn-vs-tl-o4636" class="main_title">Vòng Bảng CKTG 2020: SN vs TL</a>
+                                        </h2>                                        
+                                        <p class="des mt10 hidden-xs">Vòng Bảng CKTG 2020: SN vs TL</p>
+                                    </div>
+                                </div>
+                            </li>
+                                                        <li class="col-lg-12 col-sm-12 col-md-12 col-xs-12 box_list_item_home">
+                                <a href="https://skmoba.com/vong-bang-cktg-2020-gen-vs-tsm-o4635" class="col-sm-5 col-xs-6">
+                                    <img alt="Vòng Bảng CKTG 2020: GEN vs TSM" class="fw row" src="https://img.youtube.com/vi/wrWnubwD9x4/0.jpg"/>
+                                </a>
+                                <div class="col-sm-7 col-xs-6">
+                                    <div class="row">
+                                        <h2>
+                                            <a href="https://skmoba.com/vong-bang-cktg-2020-gen-vs-tsm-o4635" class="main_title">Vòng Bảng CKTG 2020: GEN vs TSM</a>
+                                        </h2>                                        
+                                        <p class="des mt10 hidden-xs">Vòng Bảng CKTG 2020: GEN vs TSM</p>
+                                    </div>
+                                </div>
+                            </li>
+                                                        <li class="col-lg-12 col-sm-12 col-md-12 col-xs-12 box_list_item_home">
+                                <a href="https://skmoba.com/vong-bang-cktg-2020-g2-vs-sn-o4634" class="col-sm-5 col-xs-6">
+                                    <img alt="Vòng Bảng CKTG 2020: G2 vs SN" class="fw row" src="https://img.youtube.com/vi/g_HN11lXmcA/0.jpg"/>
+                                </a>
+                                <div class="col-sm-7 col-xs-6">
+                                    <div class="row">
+                                        <h2>
+                                            <a href="https://skmoba.com/vong-bang-cktg-2020-g2-vs-sn-o4634" class="main_title">Vòng Bảng CKTG 2020: G2 vs SN</a>
+                                        </h2>                                        
+                                        <p class="des mt10 hidden-xs">Vòng Bảng CKTG 2020: G2 vs SN</p>
+                                    </div>
+                                </div>
+                            </li>
+                                                        <li class="col-lg-12 col-sm-12 col-md-12 col-xs-12 box_list_item_home">
+                                <a href="https://skmoba.com/vong-bang-cktg-2020-dwg-vs-jdg-o4633" class="col-sm-5 col-xs-6">
+                                    <img alt="Vòng Bảng CKTG 2020: DWG vs JDG" class="fw row" src="https://img.youtube.com/vi/A4Kju1gr7qA/0.jpg"/>
+                                </a>
+                                <div class="col-sm-7 col-xs-6">
+                                    <div class="row">
+                                        <h2>
+                                            <a href="https://skmoba.com/vong-bang-cktg-2020-dwg-vs-jdg-o4633" class="main_title">Vòng Bảng CKTG 2020: DWG vs JDG</a>
+                                        </h2>                                        
+                                        <p class="des mt10 hidden-xs">Vòng Bảng CKTG 2020: DWG vs JDG</p>
+                                    </div>
+                                </div>
+                            </li>
+                                                        <li class="col-lg-12 col-sm-12 col-md-12 col-xs-12 box_list_item_home">
+                                <a href="https://skmoba.com/vong-bang-cktg-2020-gen-vs-lgd-o4632" class="col-sm-5 col-xs-6">
+                                    <img alt="Vòng Bảng CKTG 2020: GEN vs LGD" class="fw row" src="https://img.youtube.com/vi/aRu9s0g8jHM/0.jpg"/>
+                                </a>
+                                <div class="col-sm-7 col-xs-6">
+                                    <div class="row">
+                                        <h2>
+                                            <a href="https://skmoba.com/vong-bang-cktg-2020-gen-vs-lgd-o4632" class="main_title">Vòng Bảng CKTG 2020: GEN vs LGD</a>
+                                        </h2>                                        
+                                        <p class="des mt10 hidden-xs">Vòng Bảng CKTG 2020: GEN vs LGD</p>
+                                    </div>
+                                </div>
+                            </li>
+                                                        <li class="col-lg-12 col-sm-12 col-md-12 col-xs-12 box_list_item_home">
+                                <a href="https://skmoba.com/doi-hinh-dtcl-manh-nhat-mua-3" class="col-sm-5 col-xs-6">
+                                    <img alt="Top 5 Đội Hình ĐTCL mạnh nhất 10.18" class="fw row" src="https://skmoba.com/images/thumbs/dtcl/doi-hinh-dtcl-10-18.jpg"/>
+                                </a>
+                                <div class="col-sm-7 col-xs-6">
+                                    <div class="row">
+                                        <h2>
+                                            <a href="https://skmoba.com/doi-hinh-dtcl-manh-nhat-mua-3" class="main_title">Top 5 Đội Hình ĐTCL mạnh nhất 10.18</a>
+                                        </h2>                                        
+                                        <p class="des mt10 hidden-xs">Điểm qua top 5 đội hình ĐTCL 10.18 mạnh nhất phiên bản mùa 4 và được sử dụng nhiều để leo rank đánh xếp hạng Đấu Trường Chân Lý meta 10.18 cùng&#8230;</p>
+                                    </div>
+                                </div>
+                            </li>
+                                                        <li class="col-lg-12 col-sm-12 col-md-12 col-xs-12 box_list_item_home">
+                                <a href="https://skmoba.com/vong-khoi-dong-cktg-2020-uol-vs-lgd-o4630" class="col-sm-5 col-xs-6">
+                                    <img alt="Vòng Khởi Động CKTG 2020: UOL vs LGD" class="fw row" src="https://img.youtube.com/vi/bII-onWxcmE/0.jpg"/>
+                                </a>
+                                <div class="col-sm-7 col-xs-6">
+                                    <div class="row">
+                                        <h2>
+                                            <a href="https://skmoba.com/vong-khoi-dong-cktg-2020-uol-vs-lgd-o4630" class="main_title">Vòng Khởi Động CKTG 2020: UOL vs LGD</a>
+                                        </h2>                                        
+                                        <p class="des mt10 hidden-xs">Vòng Khởi Động CKTG 2020: UOL vs LGD</p>
+                                    </div>
+                                </div>
+                            </li>
+                                        </ul>
+        </div>
+    </div>
+    <div class="col-lg-4 col-sm-4 col-xs-12 box_main_right xs_mt10">
+        <div class="row box_main_right1">
+        <div class="col-sm-12 col-xs-12 ad_2 _ad_2_1 -text-center">
+            <div class="-ra fr">
+                <div class="mb15 _xs_mb10" style="clear: both">
+                    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- sk_300_250_3 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-6958286390195768"
+                         data-ad-slot="4195512418"></ins>
+                    <script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                </div>
+                <div class="col-sm-12 col-xs-12 pl0 pr0 mb20 box_r_most" style="">
+                    <span class="r_header">Most viewed</span>
+                                                    <div class="col-xs-12 col-lg-12 box_r_most1">
+                                    <div class="row">
+                                        <div class="col-sm-3 pr0 col-xs-3">
+                                            <img class="img_champ_c pointer mw" alt="Orianna" title="Orianna" src="/champions/Orianna.png">
+                                        </div>
+                                        <div class="col-sm-9 col-xs-9">
+                                            <a class="r_title" href="https://skmoba.com/champions/huong-dan-choi-cach-len-do-orianna">Guide Orianna Mùa 11 - bảng Ngọc bổ trợ và Cách lên đồ Orianna Mid mới&#8230;</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                <div class="col-xs-12 col-lg-12 box_r_most1">
+                                    <div class="row">
+                                        <div class="col-sm-3 pr0 col-xs-3">
+                                            <img class="img_champ_c pointer mw" alt="Bard" title="Bard" src="/champions/Bard.png">
+                                        </div>
+                                        <div class="col-sm-9 col-xs-9">
+                                            <a class="r_title r_title1" href="https://skmoba.com/champions/huong-dan-choi-cach-len-do-bard">Guide Bard Mùa 11 - bảng Ngọc bổ trợ và Cách lên đồ Bard Sp mới nhất</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                                                <div class="col-xs-12 col-lg-12 box_r_most1">
+                                    <div class="row">
+                                        <div class="col-sm-3 pr0 col-xs-3">
+                                            <img class="img_champ_c pointer mw" alt="Akali" title="Akali" src="/champions/Akali.png">
+                                        </div>
+                                        <div class="col-sm-9 col-xs-9">
+                                            <a class="r_title" href="https://skmoba.com/cach-khac-che-akali">Cách khắc chế tướng Akali mùa 11</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                                </div>
+                <div class="mt10 box_ads_r23 mb15" style="clear: both">
+                    <script data-cfasync="false" async type="text/javascript">var truvidScript = document.createElement('script'); truvidScript.async = true; truvidScript.setAttribute('data-cfasync','false'); truvidScript.type = 'text/javascript'; truvidScript.src = '//stg.truvidplayer.com/index.php?sub_user_id=932&widget_id=4609&playlist_id=3360&m=a&cb=' + (Math.random() * 10000000000000000); var currentScript = document.currentScript || document.scripts[document.scripts.length - 1]; currentScript.parentNode.insertBefore(truvidScript, currentScript.nextSibling);</script>                    
+                    <!--                        <div class="close_ads_btn _btn_close_ads_2 btn_close_ads_3 pointer">
+                                                <img class="pointer" style="width: 15px;" title="Close" alt="Close" src="/images/source/icon.png"/>
+                                            </div>-->
+                </div>
+                <div class="mt10 mb15 xs_mb10 visible-lg visible-md" style="clear: both">
+                    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- sk_300_250_2 -->
+                    <ins class="adsbygoogle"
+                         style="display:inline-block;width:300px;height:250px"
+                         data-ad-client="ca-pub-6958286390195768"
+                         data-ad-slot="3453763463"></ins>
+                    <script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+<!--                    <div class="adsbyvli" data-ad-slot="vi_11539449"></div><script>(vitag.Init = window.vitag.Init || []).push(function () {
+                            viAPItag.display("vi_11539449")
+                        })</script>-->
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div></div>                </div>
+            </div>
+        </div>
+        <div class="footer_container">
+            <!--    <div class="ads_right _hidden">
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        sk_160_600 
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:160px;height:600px"
+             data-ad-client="ca-pub-6958286390195768"
+             data-ad-slot="3727288992"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+        <div class="close_ads_btn_right btn_close_ads_right hidden visible-lg">
+            <img style="width: 15px;" title="Close" alt="Close" src="/images/source/icon.png"/>
+        </div>
+    </div>-->
+<!--    <div class="ads_bot _hidden-xs">        
+        <div class="close_ads_btn btn_close_ads_footer">
+            <img title="Close" alt="Close" src="/images/source/icon.png"/>
+        </div>
+    </div>-->
+<div class="" id="footer_container">
+    <div class="_container">
+        <div class="col-sm-12 col-xs-12 mt10 text-center box_footer_menu">
+            <ul class="list-inline">                
+                <li class="_fl">
+                    <a href="https://www.facebook.com/GGLMHT" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a>
+                </li>
+                <li class="_fr">
+                    <a href="https://twitter.com/Skmoba1" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a>
+                </li>
+                <li>
+                    <span>2020</span>
+                </li>
+                <li>
+                    <span>Yasuo Mid</span>                    
+                </li> - 
+                <li>
+                    <span>Jhin AD</span>                </li> - 
+                <li>
+                    <span>Thresh Sp</span>                </li> - 
+                <li>
+                    <span>Ryze Top</span>                </li> - 
+                <li>
+                    <span>Graves Rừng</span>                </li>
+                <li class="_fr">
+                    <a href="https://www.youtube.com/channel/UCvDEO29dLzncEWxJebLE9jQ/" target="_blank" title="Youtube"><i class="fa fa-youtube"></i></a>
+                </li>
+                <li class="_fl">
+                    <i class="fa fa-google-plus pointer"></i>
+                </li>
+            </ul>
+            <hr class="row">
+        </div>
+        <div class="col-sm-12 col-xs-12 text-center footer_logo">
+            <img alt="Skmoba" title="Skmoba" src="/images/logo.png"/>
+        </div>
+        <div class="col-lg-12 col-xs-12 box_contact_footer text-center mb0">
+            <h5 class="mt5 mb10">Email - <a href="mailto:skmoba.com@gmail.com">skmoba.com@gmail.com</a></h5>
+        </div>
+    </div>
+</div>
+<div class="hidden-xs hidden-sm box_ads_right1" style="position:fixed; bottom:0; right:0; z-index:9999;">
+    <div style="width:300px; height:250px; margin:auto;">
+        <script src='https://compass.adop.cc/assets/js/adop/adopJ.js?v=14' ></script><ins class='adsbyadop' _adop_zon = '5640745d-1e9b-4f41-9f51-525f6d19940c' _adop_type = 're' style='display:inline-block;width:300px;height:250px;' _page_url=''></ins>
+    </div>
+    <div class="close_ads_btn_right close_ads_btn_right1 btn_close_ads_right _hidden _visible-lg hidden-xs hidden-sm" style="top: -4px;">
+        <img style="width: 15px;" title="Close" alt="Close" src="/images/source/icon.png"/>
+    </div>
+</div>
+<div class="backtotop" href="#backtotop" title="lên đầu trang" style="display: none;"><i class="glyphicon glyphicon-arrow-up"></i></div>
+    <div class="mt10 img_right hidden-lg">
+        <img class="mw pointer" alt="Zed" title="Zed" src="https://skmoba.com/images/source/zed.png"/>
+    </div>
+    
+        </div>
+        <script src="https://skmoba.com/public/js/small.js"></script>
+            </body>    
+</html>

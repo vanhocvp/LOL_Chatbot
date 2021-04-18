@@ -1,0 +1,1066 @@
+{
+  "Aatrox": [
+    "Q",
+    "R",
+    "W",
+    "Attack",
+    "E"
+  ],
+  "Ahri": [
+    "Q",
+    "E",
+    "W",
+    "R",
+    "Attack"
+  ],
+  "Akali": [
+    "Q",
+    "W",
+    "Attack",
+    "E",
+    "R"
+  ],
+  "Alistar": [
+    "E",
+    "Attack",
+    "W",
+    "R",
+    "Q"
+  ],
+  "Amumu": [
+    "Q",
+    "R",
+    "Attack",
+    "E",
+    "W"
+  ],
+  "Anivia": [
+    "R",
+    "W",
+    "Attack",
+    "E",
+    "Q"
+  ],
+  "Annie": [
+    "Attack",
+    "R",
+    "E",
+    "Q",
+    "W"
+  ],
+  "Aphelios": [
+    "E",
+    "W",
+    "Attack",
+    "Q",
+    "R"
+  ],
+  "Ashe": [
+    "Q",
+    "E",
+    "Attack",
+    "W",
+    "R"
+  ],
+  "Aurelion Sol": [
+    "Q",
+    "R",
+    "E",
+    "W",
+    "Attack"
+  ],
+  "Azir": [
+    "W",
+    "Attack",
+    "Q",
+    "E",
+    "R"
+  ],
+  "Bard": [
+    "E",
+    "W",
+    "Q",
+    "Attack",
+    "R"
+  ],
+  "Blitzcrank": [
+    "E",
+    "R",
+    "Q",
+    "Attack",
+    "W"
+  ],
+  "Brand": [
+    "E",
+    "Attack",
+    "W",
+    "Q",
+    "R"
+  ],
+  "Braum": [
+    "E",
+    "R",
+    "Attack",
+    "Q",
+    "W"
+  ],
+  "Caitlyn": [
+    "E",
+    "R",
+    "Attack",
+    "W",
+    "Q"
+  ],
+  "Camille": [
+    "Attack",
+    "R",
+    "Q",
+    "W",
+    "E"
+  ],
+  "Cassiopeia": [
+    "W",
+    "E",
+    "Attack",
+    "R",
+    "Q"
+  ],
+  "Cho'Gath": [
+    "Q",
+    "E",
+    "Attack",
+    "W",
+    "R"
+  ],
+  "Corki": [
+    "Attack",
+    "W",
+    "R",
+    "E",
+    "Q"
+  ],
+  "Darius": [
+    "E",
+    "W",
+    "Attack",
+    "Q",
+    "R"
+  ],
+  "Diana": [
+    "Attack",
+    "R",
+    "W",
+    "E",
+    "Q"
+  ],
+  "Dr. Mundo": [
+    "R",
+    "Attack",
+    "E",
+    "W",
+    "Q"
+  ],
+  "Draven": [
+    "Q",
+    "E",
+    "Attack",
+    "W",
+    "R"
+  ],
+  "Ekko": [
+    "Q",
+    "E",
+    "Attack",
+    "R",
+    "W"
+  ],
+  "Elise": [
+    "W",
+    "Attack",
+    "Q",
+    "E",
+    "R"
+  ],
+  "Evelynn": [
+    "E",
+    "R",
+    "Attack",
+    "Q",
+    "W"
+  ],
+  "Ezreal": [
+    "Attack",
+    "Q",
+    "W",
+    "R",
+    "E"
+  ],
+  "Fiddlesticks": [
+    "E",
+    "R",
+    "Q",
+    "W",
+    "Attack"
+  ],
+  "Fiora": [
+    "E",
+    "Q",
+    "W",
+    "Attack",
+    "R"
+  ],
+  "Fizz": [
+    "R",
+    "E",
+    "Attack",
+    "W",
+    "Q"
+  ],
+  "Galio": [
+    "Q",
+    "R",
+    "E",
+    "Attack",
+    "W"
+  ],
+  "Gangplank": [
+    "Attack",
+    "R",
+    "E",
+    "W",
+    "Q"
+  ],
+  "Garen": [
+    "E",
+    "R",
+    "W",
+    "Q",
+    "Attack"
+  ],
+  "Gnar": [
+    "E",
+    "R",
+    "Attack",
+    "W",
+    "Q"
+  ],
+  "Gragas": [
+    "Q",
+    "R",
+    "W",
+    "Attack",
+    "E"
+  ],
+  "Graves": [
+    "W",
+    "E",
+    "R",
+    "Q",
+    "Attack"
+  ],
+  "Hecarim": [
+    "E",
+    "R",
+    "W",
+    "Attack",
+    "Q"
+  ],
+  "Heimerdinger": [
+    "R",
+    "Q",
+    "W",
+    "Attack",
+    "E"
+  ],
+  "Illaoi": [
+    "R",
+    "E",
+    "Q",
+    "Attack",
+    "W"
+  ],
+  "Irelia": [
+    "Attack",
+    "Q",
+    "E",
+    "W",
+    "R"
+  ],
+  "Ivern": [
+    "Attack",
+    "W",
+    "R",
+    "E",
+    "Q"
+  ],
+  "Janna": [
+    "Attack",
+    "W",
+    "Q",
+    "R",
+    "E"
+  ],
+  "Jarvan IV": [
+    "R",
+    "Q",
+    "E",
+    "Attack",
+    "W"
+  ],
+  "Jax": [
+    "Attack",
+    "W",
+    "R",
+    "Q",
+    "E"
+  ],
+  "Jayce": [
+    "E",
+    "Q",
+    "W",
+    "Attack",
+    "R"
+  ],
+  "Jhin": [
+    "W",
+    "E",
+    "R",
+    "Attack",
+    "Q"
+  ],
+  "Jinx": [
+    "Q",
+    "Attack",
+    "W",
+    "R",
+    "E"
+  ],
+  "Kai'Sa": [
+    "R",
+    "Attack",
+    "Q",
+    "E",
+    "W"
+  ],
+  "Kalista": [
+    "Attack",
+    "E",
+    "Q",
+    "R",
+    "W"
+  ],
+  "Karma": [
+    "W",
+    "Attack",
+    "Q",
+    "E",
+    "R"
+  ],
+  "Karthus": [
+    "W",
+    "R",
+    "Attack",
+    "Q",
+    "E"
+  ],
+  "Kassadin": [
+    "W",
+    "Attack",
+    "R",
+    "E",
+    "Q"
+  ],
+  "Katarina": [
+    "Q",
+    "W",
+    "R",
+    "Attack",
+    "E"
+  ],
+  "Kayle": [
+    "Attack",
+    "R",
+    "Q",
+    "E",
+    "W"
+  ],
+  "Kayn": [
+    "R",
+    "Attack",
+    "Q",
+    "W",
+    "E"
+  ],
+  "Kennen": [
+    "Attack",
+    "E",
+    "R",
+    "Q",
+    "W"
+  ],
+  "Kha'Zix": [
+    "E",
+    "Attack",
+    "W",
+    "Q",
+    "R"
+  ],
+  "Kindred": [
+    "E",
+    "Attack",
+    "Q",
+    "W",
+    "R"
+  ],
+  "Kled": [
+    "R",
+    "Attack",
+    "W",
+    "Q",
+    "E"
+  ],
+  "Kog'Maw": [
+    "R",
+    "Attack",
+    "Q",
+    "E",
+    "W"
+  ],
+  "LeBlanc": [
+    "Attack",
+    "R",
+    "W",
+    "Q",
+    "E"
+  ],
+  "Lee Sin": [
+    "E",
+    "R",
+    "Q",
+    "Attack",
+    "W"
+  ],
+  "Leona": [
+    "R",
+    "E",
+    "Q",
+    "Attack",
+    "W"
+  ],
+  "Lillia": [
+    "R",
+    "W",
+    "Q",
+    "Attack",
+    "E"
+  ],
+  "Lissandra": [
+    "W",
+    "E",
+    "R",
+    "Q",
+    "Attack"
+  ],
+  "Lucian": [
+    "W",
+    "Q",
+    "R",
+    "E",
+    "Attack"
+  ],
+  "Lulu": [
+    "W",
+    "E",
+    "Attack",
+    "R",
+    "Q"
+  ],
+  "Lux": [
+    "Q",
+    "W",
+    "E",
+    "R",
+    "Attack"
+  ],
+  "Malphite": [
+    "Attack",
+    "Q",
+    "W",
+    "E",
+    "R"
+  ],
+  "Malzahar": [
+    "E",
+    "Q",
+    "Attack",
+    "R",
+    "W"
+  ],
+  "Maokai": [
+    "W",
+    "Q",
+    "R",
+    "E",
+    "Attack"
+  ],
+  "Master Yi": [
+    "Attack",
+    "R",
+    "E",
+    "W",
+    "Q"
+  ],
+  "Miss Fortune": [
+    "R",
+    "Attack",
+    "Q",
+    "E",
+    "W"
+  ],
+  "Mordekaiser": [
+    "W",
+    "Attack",
+    "R",
+    "Q",
+    "E"
+  ],
+  "Morgana": [
+    "E",
+    "Attack",
+    "Q",
+    "W",
+    "R"
+  ],
+  "Nami": [
+    "E",
+    "Attack",
+    "R",
+    "Q",
+    "W"
+  ],
+  "Nasus": [
+    "E",
+    "W",
+    "R",
+    "Q",
+    "Attack"
+  ],
+  "Nautilus": [
+    "W",
+    "E",
+    "Attack",
+    "R",
+    "Q"
+  ],
+  "Neeko": [
+    "R",
+    "W",
+    "Q",
+    "Attack",
+    "E"
+  ],
+  "Nidalee": [
+    "W",
+    "Attack",
+    "E",
+    "R",
+    "Q"
+  ],
+  "Nocturne": [
+    "R",
+    "Attack",
+    "W",
+    "Q",
+    "E"
+  ],
+  "Nunu & Willump": [
+    "Q",
+    "E",
+    "W",
+    "R",
+    "Attack"
+  ],
+  "Olaf": [
+    "E",
+    "Attack",
+    "Q",
+    "W",
+    "R"
+  ],
+  "Orianna": [
+    "R",
+    "E",
+    "W",
+    "Attack",
+    "Q"
+  ],
+  "Ornn": [
+    "W",
+    "R",
+    "Attack",
+    "Q",
+    "E"
+  ],
+  "Pantheon": [
+    "Q",
+    "R",
+    "E",
+    "Attack",
+    "W"
+  ],
+  "Poppy": [
+    "Q",
+    "W",
+    "Attack",
+    "R",
+    "E"
+  ],
+  "Pyke": [
+    "W",
+    "Q",
+    "Attack",
+    "R",
+    "E"
+  ],
+  "Qiyana": [
+    "Attack",
+    "Q",
+    "W",
+    "R",
+    "E"
+  ],
+  "Quinn": [
+    "R",
+    "W",
+    "Q",
+    "Attack",
+    "E"
+  ],
+  "Rakan": [
+    "Q",
+    "R",
+    "E",
+    "Attack",
+    "W"
+  ],
+  "Rammus": [
+    "W",
+    "Attack",
+    "R",
+    "E",
+    "Q"
+  ],
+  "Rek'Sai": [
+    "W",
+    "R",
+    "Q",
+    "E",
+    "Attack"
+  ],
+  "Renekton": [
+    "R",
+    "Q",
+    "Attack",
+    "E",
+    "W"
+  ],
+  "Rengar": [
+    "R",
+    "Q",
+    "E",
+    "W",
+    "Attack"
+  ],
+  "Riven": [
+    "Q",
+    "Attack",
+    "W",
+    "E",
+    "R"
+  ],
+  "Rumble": [
+    "Q",
+    "R",
+    "Attack",
+    "E",
+    "W"
+  ],
+  "Ryze": [
+    "Attack",
+    "E",
+    "W",
+    "R",
+    "Q"
+  ],
+  "Samira": [
+    "R",
+    "W",
+    "Attack",
+    "Q",
+    "E"
+  ],
+  "Sejuani": [
+    "R",
+    "E",
+    "Q",
+    "W",
+    "Attack"
+  ],
+  "Senna": [
+    "Attack",
+    "R",
+    "W",
+    "Q",
+    "E"
+  ],
+  "Seraphine": [
+    "E",
+    "W",
+    "Q",
+    "R",
+    "Attack"
+  ],
+  "Sett": [
+    "Attack",
+    "R",
+    "E",
+    "Q",
+    "W"
+  ],
+  "Shaco": [
+    "Q",
+    "Attack",
+    "E",
+    "W",
+    "R"
+  ],
+  "Shen": [
+    "Q",
+    "R",
+    "E",
+    "W",
+    "Attack"
+  ],
+  "Shyvana": [
+    "E",
+    "Attack",
+    "R",
+    "Q",
+    "W"
+  ],
+  "Singed": [
+    "R",
+    "W",
+    "Attack",
+    "Q",
+    "E"
+  ],
+  "Sion": [
+    "R",
+    "Attack",
+    "E",
+    "Q",
+    "W"
+  ],
+  "Sivir": [
+    "E",
+    "W",
+    "R",
+    "Q",
+    "Attack"
+  ],
+  "Skarner": [
+    "W",
+    "Q",
+    "Attack",
+    "E",
+    "R"
+  ],
+  "Sona": [
+    "Attack",
+    "Q",
+    "W",
+    "R",
+    "E"
+  ],
+  "Soraka": [
+    "W",
+    "R",
+    "Q",
+    "E",
+    "Attack"
+  ],
+  "Swain": [
+    "R",
+    "W",
+    "Q",
+    "Attack",
+    "E"
+  ],
+  "Sylas": [
+    "E",
+    "Attack",
+    "Q",
+    "R",
+    "W"
+  ],
+  "Syndra": [
+    "R",
+    "Q",
+    "W",
+    "Attack",
+    "E"
+  ],
+  "Tahm Kench": [
+    "W",
+    "R",
+    "Attack",
+    "Q",
+    "E"
+  ],
+  "Taliyah": [
+    "R",
+    "E",
+    "Attack",
+    "W",
+    "Q"
+  ],
+  "Talon": [
+    "W",
+    "E",
+    "Attack",
+    "Q",
+    "R"
+  ],
+  "Taric": [
+    "R",
+    "W",
+    "Attack",
+    "Q",
+    "E"
+  ],
+  "Teemo": [
+    "W",
+    "Attack",
+    "Q",
+    "E",
+    "R"
+  ],
+  "Thresh": [
+    "R",
+    "Q",
+    "Attack",
+    "E",
+    "W"
+  ],
+  "Tristana": [
+    "E",
+    "R",
+    "Attack",
+    "Q",
+    "W"
+  ],
+  "Trundle": [
+    "W",
+    "E",
+    "Attack",
+    "Q",
+    "R"
+  ],
+  "Tryndamere": [
+    "Attack",
+    "E",
+    "R",
+    "W",
+    "Q"
+  ],
+  "Twisted Fate": [
+    "R",
+    "Attack",
+    "W",
+    "E",
+    "Q"
+  ],
+  "Twitch": [
+    "E",
+    "Q",
+    "R",
+    "Attack",
+    "W"
+  ],
+  "Udyr": [
+    "E",
+    "Q",
+    "W",
+    "Attack",
+    "R"
+  ],
+  "Urgot": [
+    "E",
+    "Attack",
+    "Q",
+    "R",
+    "W"
+  ],
+  "Varus": [
+    "W",
+    "E",
+    "Attack",
+    "Q",
+    "R"
+  ],
+  "Vayne": [
+    "E",
+    "W",
+    "Attack",
+    "R",
+    "Q"
+  ],
+  "Veigar": [
+    "R",
+    "E",
+    "Attack",
+    "Q",
+    "W"
+  ],
+  "Vel'Koz": [
+    "W",
+    "Attack",
+    "Q",
+    "E",
+    "R"
+  ],
+  "Vi": [
+    "Q",
+    "W",
+    "Attack",
+    "R",
+    "E"
+  ],
+  "Viktor": [
+    "R",
+    "W",
+    "Attack",
+    "Q",
+    "E"
+  ],
+  "Vladimir": [
+    "Q",
+    "Attack",
+    "W",
+    "E",
+    "R"
+  ],
+  "Volibear": [
+    "Q",
+    "W",
+    "Attack",
+    "E",
+    "R"
+  ],
+  "Warwick": [
+    "Attack",
+    "W",
+    "Q",
+    "R",
+    "E"
+  ],
+  "Wukong": [
+    "E",
+    "W",
+    "Attack",
+    "R",
+    "Q"
+  ],
+  "Xayah": [
+    "W",
+    "E",
+    "Q",
+    "Attack",
+    "R"
+  ],
+  "Xerath": [
+    "Q",
+    "E",
+    "R",
+    "Attack",
+    "W"
+  ],
+  "Xin Zhao": [
+    "E",
+    "W",
+    "Q",
+    "Attack",
+    "R"
+  ],
+  "Yasuo": [
+    "R",
+    "W",
+    "Attack",
+    "E",
+    "Q"
+  ],
+  "Yone": [
+    "R",
+    "Attack",
+    "E",
+    "W",
+    "Q"
+  ],
+  "Yorick": [
+    "Attack",
+    "E",
+    "Q",
+    "W",
+    "R"
+  ],
+  "Yuumi": [
+    "E",
+    "R",
+    "W",
+    "Attack",
+    "Q"
+  ],
+  "Zac": [
+    "W",
+    "Q",
+    "Attack",
+    "E",
+    "R"
+  ],
+  "Zed": [
+    "Attack",
+    "W",
+    "E",
+    "R",
+    "Q"
+  ],
+  "Ziggs": [
+    "Attack",
+    "R",
+    "W",
+    "E",
+    "Q"
+  ],
+  "Zilean": [
+    "E",
+    "Attack",
+    "Q",
+    "R",
+    "W"
+  ],
+  "Zoe": [
+    "W",
+    "Attack",
+    "Q",
+    "E",
+    "R"
+  ],
+  "Zyra": [
+    "R",
+    "Attack",
+    "Q",
+    "W",
+    "E"
+  ]
+}
